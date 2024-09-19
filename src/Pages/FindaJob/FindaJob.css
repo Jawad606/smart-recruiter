@@ -1,0 +1,48 @@
+.findajob {
+  background-color: #112b3c;
+  color: #fff;
+  height: 100vh;
+}
+.cards {
+  border-radius: 10px;
+  background-color: #24587a;
+  height: fit-content;
+  padding-block: 5px 5px;
+  width: 30%;
+  padding-top: 20px;
+}
+.findajob img {
+  border-radius: 10px;
+}
+.Description {
+  padding: 20px 2px;
+}
+.Description h4 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+.Description span {
+  font-weight: 700;
+  color: #cac8c7;
+}
+.company {
+  font-size: 24px;
+  font-weight: 600;
+}
+.findajob .skills {
+  background-color: #f66b0e;
+  color: #112b3c;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+.apply button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #112b3c;
+  border-radius: 5px;
+  color: #fff;
+  float: right;
+}

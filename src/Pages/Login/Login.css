@@ -1,0 +1,57 @@
+.login{
+    background-color: #112b3c;
+    color: #fff;
+}
+.login h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 800;
+  }
+  .input input {
+    width: 100%;
+    height: 45px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    margin: 10px;
+    padding-left: 10px;
+    color:#fff
+  }
+  .input textarea {
+    width: 100%;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 2px;
+    margin: 10px;
+    padding-left: 10px;
+    color:#fff
+  }
+  .login button, .contact button {
+    color: #112b3c;
+    background-color: #f66b0e;
+    border: none;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 20px;
+    word-spacing: 15%;
+    border-radius: 10px;
+  }
+  .content{
+    margin: 10px;
+  }
+  a{
+    color: rgb(146, 146, 146);
+    text-decoration: none;
+  }
+  .danger{
+    cursor:pointer;
+    color: #d1baaa;
+  }
+  .danger:hover{
+    color: #f66b0e;
+    cursor:pointer;
+ }
+ .modal-content{
+  background-color: #112b3c;
+  color: #fff;
+ }

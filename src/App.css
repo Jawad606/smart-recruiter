@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+.bg-color{
+  background-color: #112B3C;
+}
+html{
+  background-color: #112B3C;
+}
+body{
+  background-color: #112B3C;
+}
+.bg-color-spin{
+  background-color: #112B3C;
+  height: 100vh;
+}
+.bg-color-spin h1{
+    color: #F66B0E;
+   font-weight: bold;
+   font-size: 2rem;
+   padding-block: 10px;
+}

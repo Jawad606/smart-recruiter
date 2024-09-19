@@ -1,0 +1,65 @@
+.Sidebar {
+  position: sticky;
+  background-color: #112b3c;
+  border-right: 1px solid #f66b0e;
+  height:88vh;
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: inherit;
+  justify-items: normal;
+  height: 100%;
+}
+.header {
+  height: 20%;
+  color: #f66b0e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+}
+.Sidebar hr {
+  color: #f66b0e;
+  border-bottom: 1px solid #f66b0e;
+}
+.header h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding-top: 2px;
+}
+.footer {
+  height: 20%;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 10%;
+}
+.contents {
+  height: 60%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.navBox {
+  width: 100%;
+  height: 40px;
+  background-color: #f66b0e;
+  color: #c4c4c4;
+  display: grid;
+  place-content: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-block: 10px;
+}
+
+.contents .nav-item > .active {
+  color: #112b3c;
+}
+.companyLogo{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}

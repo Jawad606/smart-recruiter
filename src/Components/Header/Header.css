@@ -1,0 +1,34 @@
+.navbar {
+  background-color: #112b3c;
+}
+.bg-color-header {
+  background-color: #112b3c;
+  border-bottom: 1px solid #efefef63;
+  position: sticky;
+}
+.navbar-brand {
+  color: #f66b0e;
+}
+.nav-link {
+  color: #efefef;
+}
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #ffac74;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #f66b0e;
+}
+.dropdown-toggle {
+  background-color: #112b3c;
+  display: flex;
+  align-items: center;
+}
+.dropdown-toggle img {
+  border-radius: 50%;
+}
+.z-index {
+    position: relative;
+  z-index: 10;
+}

@@ -1,0 +1,44 @@
+.Signup {
+  background-color: #112b3c;
+  color: #fff;
+  height: 95vh;
+}
+.membership {
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.box {
+  padding: 20px 30px;
+  background-color: hsl(228.3, 100%, 91%);
+  color: #112b3c;
+  position: relative;
+  border-radius: 10px;
+  height: 100%;
+}
+.box-btn {
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: 700;
+  border: none;
+  height: 50px;
+  background-color: #112b3c;
+  color: #f66b0e;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+.box h5 {
+  font-size: 2rem;
+  font-weight: 600;
+  font-style: italic;
+}
+.box div ul li {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.box-btn:hover{
+  color: #fff;
+}

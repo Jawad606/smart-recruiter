@@ -1,0 +1,58 @@
+.jobadvertize,
+.AddJob {
+  background-color: #112b3c;
+  color: rgb(212, 209, 209);
+}
+.jobadvertize h3 {
+  font-size: 1.7rem;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.jobadvertize thead tr th {
+  background-color: #1b4561;
+  color: #fff;
+}
+.MuiOutlinedInput-root:focus .MuiOutlinedInput-notchedOutline {
+  border-color: #fff;
+}
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #fff;
+}
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  color: #fff;
+  border-color: #f66b0e;
+}
+.MuiInputBase-input {
+  color: #fff;
+}
+.skills {
+  background-color: #f66b0e;
+  color: #112b3c;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 20px;
+  text-align: center;
+  margin-right: 7px;
+}
+.skills span {
+  background-color: #f66b0e;
+  color: #c8d7e2;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding-inline: 3px;
+  border-radius: 20px;
+  font-size: 17px;
+  cursor: pointer;
+}
+.Allow{
+  overflow-y: auto;
+  overscroll-behavior: smooth;
+  height: inherit;
+}
+.require{
+  color: #f66b0e;
+  padding-left: 2px;
+
+}

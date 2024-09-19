@@ -1,0 +1,54 @@
+.bg-color-smart {
+  background-color: #112b3c;
+  color: aliceblue;
+}
+.bg-color-smart h1{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #f66b0e;
+    text-align: center;
+    
+}
+.inputBox-main{
+  padding-block: 30px;
+  border:3px dashed #f66b0e;
+  position: relative;
+  border-radius: 10px;
+}
+.inputBox-main h6{
+  font-size: medium;
+  font-weight: 700;
+}
+.inputBox-main input {
+ opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.files{
+  margin-block: 10px;
+  height: 60px;
+  background-color:#4166b1;;
+border-radius: 10px;
+width: 101%;
+}
+.box-scroll{
+  margin-block: 20px;
+  border-radius: 10px;
+  overflow-y: auto;
+  height: 270px;
+}
+.smart__button{
+  padding: 10px 30px;
+  background-color: #f66b0e;
+  width: 200px;
+  color: #ffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  margin-top: 20px;
+}

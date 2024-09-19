@@ -1,0 +1,17 @@
+.bg-color-contact{
+    background-color: #112b3c;
+    color: aliceblue;
+}
+.bg-color-contact h1{
+    color: #f66b0e;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.bg-color-contact h6{
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.lottie{
+    height: 126px;
+}

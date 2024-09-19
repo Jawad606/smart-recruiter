@@ -1,0 +1,82 @@
+.bg-color-result {
+  background-color: #112b3c;
+  color: aliceblue;
+}
+.bg-color-result h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #f66b0e;
+  text-align: center;
+  padding-block: 20px;
+}
+.bg-color-result table {
+  color: aliceblue;
+}
+.pieChart {
+  background-color: #112b3c;
+  color: #fff;
+}
+.charts {
+  padding: 5px 20px;
+  margin: 4px;
+  background-color: #f66b0e;
+  border: none;
+  border-radius: 5px;
+  color: #112b3c;
+  font-weight: 600;
+}
+.chartsBox {
+  border: 1px dashed #f66b0e;
+  position: relative;
+  border-radius: 5px;
+}
+.buttonBox {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+thead{
+background-color: #f66b0e;
+}
+.Download{
+  padding: 10px 20px;
+  background-color: #f66b0e;
+  border-radius: 5px;
+  border: none;
+  margin-block: 20px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #fff;
+  letter-spacing: 1px;
+  position: relative;
+  width: 200px;
+  text-align: center;
+}
+.AiOutlineDownload{
+  padding-inline: 5px;
+  width: 50px;
+  height: 47px;
+  font-size: 2rem;
+  font-weight: 700;
+  background-color: #205375;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+@media screen and (min-width: 768px){
+  .scroll{
+    padding-block: 10px;
+  }
+  
+}
+@media screen and (max-width: 512px){
+  .scroll{
+    overflow-x: scroll;
+    width: 107%;
+    padding-block: 10px;
+  }
+  
+}

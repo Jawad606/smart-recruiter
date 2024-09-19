@@ -1,0 +1,17 @@
+.dashboard{
+    color: #fff;
+    height: 90vh;
+    overflow-y: auto;
+}
+.card{
+    background-color: #183d56;
+    width: 400px;
+}
+.card h2{
+    color:#F66B0E;
+    font-size: 32px;
+    font-weight: bold;
+}
+.zIndex-3{
+    z-index: 0;
+}
